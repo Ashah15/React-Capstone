@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const NavBar = () => (
   <div className="nav header">
     <Link className="home-link" to="/">
-      <h4 className=" nav-text"> Yummy Meals</h4>
+      <h4 className=" nav-text"> Delicious Delicacies!!!</h4>
     </Link>
   </div>
 );

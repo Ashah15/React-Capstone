@@ -22,7 +22,7 @@ const AllCategories = props => {
 
   return (
     <div>
-      <h1 className="welcome-text"> Curious For More Yummy Meals?</h1>
+      <h1 className="welcome-text"> Not satisfied? We got you covered!</h1>
       <div className="container">
         {categories.map(el => <Link key={el.idCategory} to={`/category/${el.strCategory}`}><Category name={categoryName(el)} description={categoryDetails(el)} src={categoryImage(el)} /></Link>)}
       </div>

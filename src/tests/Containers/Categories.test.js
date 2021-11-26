@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
-// import Enzyme, { shallow } from 'enzyme';
+import Enzyme, { shallow } from 'enzyme';
 import { Provider } from 'react-redux';
 import Adapter from 'enzyme-adapter-react-16';
 import AllCategories from '../../Containers/Categories';

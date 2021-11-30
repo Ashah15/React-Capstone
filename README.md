@@ -23,7 +23,7 @@ This is a React web application where you can navigate the details of the differ
 
 How to install and run it locally
 
-- Run git clone  to get it in your local machine.
+- Run git clone https://github.com/Ashah15/React-Capstone.git to get it in your local machine.
 
 - Navigate to the folder by running
 

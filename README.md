@@ -3,7 +3,7 @@
 This is a React web application where you can navigate the details of the different food categories and food recipes by clicking on the list of categories listed. It has the filter functionality with which you can filter your your recipe with different categories.
 
 ## App Screenshot
-![book](https://user-images.githubusercontent.com/25789605/130869507-089514f2-c186-46bb-a8a7-e7d41fb28820.png)
+![React-Capstone](https://user-images.githubusercontent.com/25789605/144086651-1e1c8da3-a8e3-418d-bdee-335e90e4669a.png)
 
 ## Tools Used
 

@@ -37,6 +37,10 @@ How to install and run it locally
 
   npm run start
   
+- How to test the app
+
+npm run test
+  
 - The app is now running on the browser
 
  http://localhost:3000/
